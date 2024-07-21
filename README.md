@@ -68,18 +68,25 @@ An example outfile.txt is including in this repository and is below for the exam
 Molecule List Name | Molecule Name | Molecular Formula | Precursor Adduct | Precursor Charge | Explicit Retention Time | Explicit Retention Time Window | Note
 --- | --- | --- | --- | --- | --- | --- | ---
 Amino acid | Alanine | C3H7NO2 | M-H | -1 | 10.79 | 1 | sarcosine isobar
-Amino acid | Alanine | C3H7NO2 | M13C1-H | -1 | 10.79 | 1 | sarcosine isobar
-Amino acid | Alanine | C3H7NO2 | M13C213C1-H | -1 | 10.79 | 1 | sarcosine isobar
-Amino acid | Alanine | C3H7NO2 | M13C313C213C1-H | -1 | 10.79 | 1 | sarcosine isobar
+Amino acid | Alanine | C3H7NO2 | M1C13-H | -1 | 10.79 | 1 | sarcosine isobar
+Amino acid | Alanine | C3H7NO2 | M2C13-H | -1 | 10.79 | 1 | sarcosine isobar
+Amino acid | Alanine | C3H7NO2 | M3C13-H | -1 | 10.79 | 1 | sarcosine isobar
 Glycolysis | 2PG | C3H7O7P | M-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
-Glycolysis | 2PG | C3H7O7P | M13C1-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
-Glycolysis | 2PG | C3H7O7P | M13C213C1-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
-Glycolysis | 2PG | C3H7O7P | M13C313C213C1-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
+Glycolysis | 2PG | C3H7O7P | M1C13-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
+Glycolysis | 2PG | C3H7O7P | M2C13-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
+Glycolysis | 2PG | C3H7O7P | M3C13-H | -1 | 12.342 | 1 | unlikely to distinguish from isobar 2-PG
 PPP | 6-Phospho-D-gluconate | C6H13O10P | M-H | -1 | 12.872 | 1
-PPP | 6-Phospho-D-gluconate | C6H13O10P | M13C1-H | -1 | 12.872 | 1
-PPP | 6-Phospho-D-gluconate | C6H13O10P | M13C213C1-H | -1 | 12.872 | 1
-PPP | 6-Phospho-D-gluconate | C6H13O10P | M13C313C213C1-H | -1 | 12.872 | 1
-PPP | 6-Phospho-D-gluconate | C6H13O10P | M13C413C313C213C1-H | -1 | 12.872 | 1
-PPP | 6-Phospho-D-gluconate | C6H13O10P | M13C513C413C313C213C1-H | -1 | 12.872 | 1
-PPP | 6-Phospho-D-gluconate | C6H13O10P | M13C613C513C413C313C213C1-H | -1 | 12.872 | 1
+PPP | 6-Phospho-D-gluconate | C6H13O10P | M1C13-H | -1 | 12.872 | 1
+PPP | 6-Phospho-D-gluconate | C6H13O10P | M2C13-H | -1 | 12.872 | 1
+PPP | 6-Phospho-D-gluconate | C6H13O10P | M3C13-H | -1 | 12.872 | 1
+PPP | 6-Phospho-D-gluconate | C6H13O10P | M4C13-H | -1 | 12.872 | 1
+PPP | 6-Phospho-D-gluconate | C6H13O10P | M5C13-H | -1 | 12.872 | 1
+PPP | 6-Phospho-D-gluconate | C6H13O10P | M6C13-H | -1 | 12.872 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M-H | -1 | 12.018 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M1C13-H | -1 | 12.018 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M2C13-H | -1 | 12.018 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M3C13-H | -1 | 12.018 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M4C13-H | -1 | 12.018 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M5C13-H | -1 | 12.018 | 1
+PPP | D-Fructose 1,6-bisphosphate | C6H14O12P2 | M6C13-H | -1 | 12.018 | 1
 
