@@ -55,13 +55,13 @@ python -m isotopeListBuilder --infile="infile.txt" --outfile="outfile.txt" --lab
 Full paths written out:
 
 ```
-python -m isotopeListBuilder --infile="/Users/jamie/OneDrive/Desktop/infile.txt" --outfile="/Users/jamie/OneDrive/Desktop/outfile.txt" --label="13C"
+python3 isotopeListBuilder.py --infile="/Users/jamie/OneDrive/Desktop/infile.txt" --outfile="/Users/jamie/OneDrive/Desktop/outfile.txt" --label="13C"
 ```
 
 If everything is in the same directory:
 
 ```
-python -m isotopeListBuilder --infile="infile.txt" --outfile="outfile.txt" --label="13C"
+python3 isotopeListBuilder.py --infile="infile.txt" --outfile="outfile.txt" --label="13C"
 ```
 
 An example outfile.txt is including in this repository and is below for the example above:
